@@ -1,0 +1,42 @@
+services:
+  # Frontend Service
+  - type: web
+    name: smart-agri-frontend
+    env: node
+    buildCommand: cd frontend && npm install && npm run build
+    startCommand: cd frontend && npm run preview
+    envVars:
+      - key: VITE_API_URL
+        value: https://smart-agri-backend.onrender.com
+      - key: VITE_CHATBOT_URL
+        value: https://smart-agri-chatbot.onrender.com
+
+  # Main Backend Service
+  - type: web
+    name: smart-agri-backend
+    env: node
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+
+  # Chatbot Backend Service
+  - type: web
+    name: smart-agri-chatbot
+    env: node
+    buildCommand: cd chatbot-backend/smart-agri-backend && npm install
+    startCommand: cd chatbot-backend/smart-agri-backend && node index.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+
+  # Plant Disease Recognition Service
+  - type: web
+    name: smart-agri-plant-disease
+    env: python
+    buildCommand: cd Plant-Disease-Recognition-System && pip install -r requirements.txt
+    startCommand: cd Plant-Disease-Recognition-System && python app.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.0 

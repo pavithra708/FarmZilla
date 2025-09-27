@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.env
+*.pkl
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/

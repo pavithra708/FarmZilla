@@ -1,0 +1,9 @@
+{
+  "chatbot": {
+    "title": "Smart Agri Assistant",
+    "selectLanguage": "Select your language",
+    "startChat": "Start Chat",
+    "inputPlaceholder": "Type your question here...",
+    "send": "Send"
+  }
+}

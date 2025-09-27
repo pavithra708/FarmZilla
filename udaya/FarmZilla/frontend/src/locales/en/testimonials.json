@@ -1,0 +1,16 @@
+{
+  "title": "Farmers' Success Stories",
+  "subtitle": "Hear from farmers who have transformed their agricultural practices using our smart farming solutions.",
+  "0": {
+    "quote": "Smart Agri Farming's disease identification tool saved my tomato crop. I uploaded a photo, got an instant diagnosis, and followed the recommended treatment.",
+    "role": "Vegetable Farmer, Karnataka"
+  },
+  "1": {
+    "quote": "The market price tracking feature helps me decide when and where to sell my produce for maximum profit. It's like having market intelligence in my pocket.",
+    "role": "Rice Farmer, Punjab"
+  },
+  "2": {
+    "quote": "The AI chatbot is incredibly helpful, especially since it speaks my local language. I can ask farming questions at any time and get expert advice.",
+    "role": "Cotton Farmer, Telangana"
+  }
+}

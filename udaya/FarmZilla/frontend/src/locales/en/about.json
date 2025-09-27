@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "title1": "Empowering Farmers with",
+    "title2": "Smart Agri Solutions",
+    "description": "Access tools for crop disease detection, fertilizer advice, market rates, and loan assistance in your local language.",
+    "tryAssistant": "Try Smart Assistant",
+    "learnMore": "Learn More",
+    "toolsTitle": "AI-Powered Tools for Farmers",
+    "features": [
+      "Crop disease detection from images",
+      "Fertilizer recommendations",
+      "Loan schemes and eligibility",
+      "Live market price updates"
+    ],
+    "alt": "Farmer in field using technology",
+    "greeting": "Hi there! 👋",
+    "helpNote": "I'm here to help you — just ask me anything!"
+  },
+  
+  "title": "About Us",
+  "subtitle": "Transforming agriculture through innovation, sustainability, and farmer empowerment.",
+
+  "vision": {
+    "title": "Our Vision",
+    "desc": "To create a future where farming is smart, sustainable, and profitable for every farmer. We envision a world where technology bridges the gap between rural farmers and modern agriculture, ensuring food security and economic stability for communities."
+  },
+
+  "mission": {
+    "title": "Our Mission",
+    "desc": "Our mission is to empower farmers by providing real-time insights, modern tools, and an accessible digital platform to make informed decisions. We aim to democratize access to agritech solutions for both small and large-scale farmers across the country."
+  },
+
+  "approach": {
+    "title": "Our Approach",
+    "data": {
+      "title": "Data-Driven",
+      "desc": "We use satellite data, soil reports, and climate models to help farmers make accurate crop decisions, manage risks, and increase yield efficiently."
+    },
+    "farmer": {
+      "title": "Farmer-Centric",
+      "desc": "We work directly with farmers to understand their real-world challenges. Our tools and interface are designed in regional languages to ensure maximum usability and accessibility."
+    },
+    "sustainable": {
+      "title": "Sustainable",
+      "desc": "Our solutions promote organic farming, water conservation, and natural resource management, ensuring agriculture remains viable for future generations."
+    },
+    "innovative": {
+      "title": "Innovative",
+      "desc": "We integrate AI, IoT, and predictive analytics to provide next-generation farming recommendations tailored to each farmer's land and crop type."
+    }
+  },
+
+  "team": {
+    "title": "Meet Our Team",
+    "founder": {
+      "role": "Founder & Agritech Expert",
+      "bio": "Dr. Rajesh Kumar brings over 20 years of experience in agriculture and rural innovation. He has worked with global organizations to implement sustainable farming techniques and has published several papers on agri-AI applications."
+    },
+    "cto": {
+      "role": "Chief Technology Officer",
+      "bio": "Priya Sharma, a passionate technologist, leads our software development and AI integration efforts. She previously built smart irrigation systems and is a strong advocate for inclusive tech in rural communities."
+    },
+    "research": {
+      "role": "Head of Research",
+      "bio": "Anand Singh leads our research division, ensuring all recommendations are backed by rigorous testing and local validation. He works closely with agricultural universities and field experts."
+    }
+  },
+
+  "partners": {
+    "title": "Our Partners",
+    "0": "AgriTech India - Technical Collaboration",
+    "1": "GreenFarm Alliance - Sustainability Support",
+    "2": "Farmers' Co-op - Field Implementation",
+    "3": "National Agro Board - Policy & Recognition"
+  },
+
+  "awards": {
+    "title": "Awards & Recognition",
+    "0": "Best Agri-Innovation Startup - National Expo 2023",
+    "1": "Winner - Government Rural Digitization Challenge 2022",
+    "2": "AI for Farming Excellence Award by TechAgri Group",
+    "3": "Recognized by Ministry of Agriculture for Smart Farming Solutions"
+  }
+}

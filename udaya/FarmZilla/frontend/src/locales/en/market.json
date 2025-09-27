@@ -1,0 +1,10 @@
+{
+  "market": {
+    "title": "Market Prices",
+    "description": "Get the latest prices for crops in your local markets.",
+    "crop": "Crop",
+    "price": "Price (per quintal)",
+    "location": "Location",
+    "lastUpdated": "Last updated on {{date}}"
+  }
+}

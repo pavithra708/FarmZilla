@@ -1,0 +1,502 @@
+[
+  {
+    "crop": "Wheat",
+    "soil": "Loamy",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 39,
+      "method": "Spot placement",
+      "precautions": "Do not mix with urea"
+    }
+  },
+  {
+    "crop": "Wheat",
+    "soil": "Clay",
+    "fertilizer": {
+      "name": "NPK 10:26:26",
+      "quantity": 56,
+      "method": "Spot placement",
+      "precautions": "Avoid over-irrigation"
+    }
+  },
+  {
+    "crop": "Wheat",
+    "soil": "Sandy Loam",
+    "fertilizer": {
+      "name": "NPK 20:20:0",
+      "quantity": 54,
+      "method": "Broadcast",
+      "precautions": "Apply before sowing"
+    }
+  },
+  {
+    "crop": "Wheat",
+    "soil": "Silty",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 48,
+      "method": "Spot placement",
+      "precautions": "Apply before sowing"
+    }
+  },
+  {
+    "crop": "Wheat",
+    "soil": "Sandy",
+    "fertilizer": {
+      "name": "NPK 10:26:26",
+      "quantity": 40,
+      "method": "Broadcast",
+      "precautions": "Apply before sowing"
+    }
+  },
+  {
+    "crop": "Rice",
+    "soil": "Loamy",
+    "fertilizer": {
+      "name": "NPK 20:20:0",
+      "quantity": 42,
+      "method": "Drill",
+      "precautions": "Use gloves during handling"
+    }
+  },
+  {
+    "crop": "Rice",
+    "soil": "Clay",
+    "fertilizer": {
+      "name": "NPK 10:26:26",
+      "quantity": 30,
+      "method": "Drill",
+      "precautions": "Apply before sowing"
+    }
+  },
+  {
+    "crop": "Rice",
+    "soil": "Sandy Loam",
+    "fertilizer": {
+      "name": "Ammonium Sulphate",
+      "quantity": 58,
+      "method": "Spot placement",
+      "precautions": "Avoid over-irrigation"
+    }
+  },
+  {
+    "crop": "Rice",
+    "soil": "Silty",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 49,
+      "method": "Spot placement",
+      "precautions": "Do not mix with urea"
+    }
+  },
+  {
+    "crop": "Rice",
+    "soil": "Sandy",
+    "fertilizer": {
+      "name": "SSP",
+      "quantity": 47,
+      "method": "Drill",
+      "precautions": "Do not mix with urea"
+    }
+  },
+  {
+    "crop": "Corn",
+    "soil": "Loamy",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 32,
+      "method": "Drill",
+      "precautions": "Split doses recommended"
+    }
+  },
+  {
+    "crop": "Corn",
+    "soil": "Clay",
+    "fertilizer": {
+      "name": "Ammonium Sulphate",
+      "quantity": 38,
+      "method": "Spot placement",
+      "precautions": "Avoid during heavy rainfall"
+    }
+  },
+  {
+    "crop": "Corn",
+    "soil": "Sandy Loam",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 46,
+      "method": "Drill",
+      "precautions": "Water after application"
+    }
+  },
+  {
+    "crop": "Corn",
+    "soil": "Silty",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 43,
+      "method": "Spot placement",
+      "precautions": "Use gloves during handling"
+    }
+  },
+  {
+    "crop": "Corn",
+    "soil": "Sandy",
+    "fertilizer": {
+      "name": "Ammonium Sulphate",
+      "quantity": 42,
+      "method": "Broadcast",
+      "precautions": "Use gloves during handling"
+    }
+  },
+  {
+    "crop": "Soybean",
+    "soil": "Loamy",
+    "fertilizer": {
+      "name": "Ammonium Sulphate",
+      "quantity": 39,
+      "method": "Top dressing",
+      "precautions": "Avoid during heavy rainfall"
+    }
+  },
+  {
+    "crop": "Soybean",
+    "soil": "Clay",
+    "fertilizer": {
+      "name": "NPK 10:26:26",
+      "quantity": 53,
+      "method": "Broadcast",
+      "precautions": "Do not mix with urea"
+    }
+  },
+  {
+    "crop": "Soybean",
+    "soil": "Sandy Loam",
+    "fertilizer": {
+      "name": "NPK 20:20:0",
+      "quantity": 58,
+      "method": "Drill",
+      "precautions": "Split doses recommended"
+    }
+  },
+  {
+    "crop": "Soybean",
+    "soil": "Silty",
+    "fertilizer": {
+      "name": "Ammonium Sulphate",
+      "quantity": 39,
+      "method": "Spot placement",
+      "precautions": "Avoid overuse"
+    }
+  },
+  {
+    "crop": "Soybean",
+    "soil": "Sandy",
+    "fertilizer": {
+      "name": "NPK 10:26:26",
+      "quantity": 46,
+      "method": "Drill",
+      "precautions": "Avoid over-irrigation"
+    }
+  },
+  {
+    "crop": "Sugarcane",
+    "soil": "Loamy",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 39,
+      "method": "Top dressing",
+      "precautions": "Avoid overuse"
+    }
+  },
+  {
+    "crop": "Sugarcane",
+    "soil": "Clay",
+    "fertilizer": {
+      "name": "NPK 10:26:26",
+      "quantity": 51,
+      "method": "Broadcast",
+      "precautions": "Avoid during heavy rainfall"
+    }
+  },
+  {
+    "crop": "Sugarcane",
+    "soil": "Sandy Loam",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 57,
+      "method": "Broadcast",
+      "precautions": "Use gloves during handling"
+    }
+  },
+  {
+    "crop": "Sugarcane",
+    "soil": "Silty",
+    "fertilizer": {
+      "name": "Urea",
+      "quantity": 49,
+      "method": "Broadcast",
+      "precautions": "Avoid during heavy rainfall"
+    }
+  },
+  {
+    "crop": "Sugarcane",
+    "soil": "Sandy",
+    "fertilizer": {
+      "name": "NPK 20:20:0",
+      "quantity": 48,
+      "method": "Top dressing",
+      "precautions": "Apply before sowing"
+    }
+  },
+  {
+    "crop": "Cotton",
+    "soil": "Loamy",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 49,
+      "method": "Top dressing",
+      "precautions": "Avoid overuse"
+    }
+  },
+  {
+    "crop": "Cotton",
+    "soil": "Clay",
+    "fertilizer": {
+      "name": "SSP",
+      "quantity": 49,
+      "method": "Drill",
+      "precautions": "Avoid over-irrigation"
+    }
+  },
+  {
+    "crop": "Cotton",
+    "soil": "Sandy Loam",
+    "fertilizer": {
+      "name": "DAP",
+      "quantity": 43,
+      "method": "Spot placement",
+      "precautions": "Do not mix with urea"
+    }
+  },
+  {
+    "crop": "Cotton",
+    "soil": "Silty",
+    "fertilizer": {
+      "name": "NPK 20:20:0",
+      "quantity": 60,
+      "method": "Drill",
+      "precautions": "Avoid over-irrigation"
+    }
+  },
+  {
+    "crop": "Cotton",
+    "soil": "Sandy",
+    "fertilizer": {
+      "name": "SSP",
+      "quantity": 60,
+      "method": "Spot placement",
+      "precautions": "Use gloves during handling"
+    }
+  },
+  {
+    "crop": "Groundnut",
+    "soil": "Loamy",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 60,
+      "method": "Drill",
+      "precautions": "Avoid during heavy rainfall"
+    }
+  },
+  {
+    "crop": "Groundnut",
+    "soil": "Clay",
+    "fertilizer": {
+      "name": "DAP",
+      "quantity": 45,
+      "method": "Broadcast",
+      "precautions": "Water after application"
+    }
+  },
+  {
+    "crop": "Groundnut",
+    "soil": "Sandy Loam",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 36,
+      "method": "Broadcast",
+      "precautions": "Split doses recommended"
+    }
+  },
+  {
+    "crop": "Groundnut",
+    "soil": "Silty",
+    "fertilizer": {
+      "name": "NPK 10:26:26",
+      "quantity": 53,
+      "method": "Drill",
+      "precautions": "Avoid during heavy rainfall"
+    }
+  },
+  {
+    "crop": "Groundnut",
+    "soil": "Sandy",
+    "fertilizer": {
+      "name": "Ammonium Sulphate",
+      "quantity": 57,
+      "method": "Broadcast",
+      "precautions": "Do not mix with urea"
+    }
+  },
+  {
+    "crop": "Mustard",
+    "soil": "Loamy",
+    "fertilizer": {
+      "name": "SSP",
+      "quantity": 46,
+      "method": "Drill",
+      "precautions": "Avoid overuse"
+    }
+  },
+  {
+    "crop": "Mustard",
+    "soil": "Clay",
+    "fertilizer": {
+      "name": "SSP",
+      "quantity": 51,
+      "method": "Drill",
+      "precautions": "Use gloves during handling"
+    }
+  },
+  {
+    "crop": "Mustard",
+    "soil": "Sandy Loam",
+    "fertilizer": {
+      "name": "NPK 10:26:26",
+      "quantity": 49,
+      "method": "Top dressing",
+      "precautions": "Apply before sowing"
+    }
+  },
+  {
+    "crop": "Mustard",
+    "soil": "Silty",
+    "fertilizer": {
+      "name": "NPK 20:20:0",
+      "quantity": 60,
+      "method": "Drill",
+      "precautions": "Water after application"
+    }
+  },
+  {
+    "crop": "Mustard",
+    "soil": "Sandy",
+    "fertilizer": {
+      "name": "NPK 10:26:26",
+      "quantity": 37,
+      "method": "Broadcast",
+      "precautions": "Do not mix with urea"
+    }
+  },
+  {
+    "crop": "Tomato",
+    "soil": "Loamy",
+    "fertilizer": {
+      "name": "NPK 20:20:0",
+      "quantity": 57,
+      "method": "Top dressing",
+      "precautions": "Avoid over-irrigation"
+    }
+  },
+  {
+    "crop": "Tomato",
+    "soil": "Clay",
+    "fertilizer": {
+      "name": "NPK 20:20:0",
+      "quantity": 53,
+      "method": "Spot placement",
+      "precautions": "Avoid overuse"
+    }
+  },
+  {
+    "crop": "Tomato",
+    "soil": "Sandy Loam",
+    "fertilizer": {
+      "name": "SSP",
+      "quantity": 47,
+      "method": "Broadcast",
+      "precautions": "Avoid during heavy rainfall"
+    }
+  },
+  {
+    "crop": "Tomato",
+    "soil": "Silty",
+    "fertilizer": {
+      "name": "Urea",
+      "quantity": 41,
+      "method": "Spot placement",
+      "precautions": "Avoid during heavy rainfall"
+    }
+  },
+  {
+    "crop": "Tomato",
+    "soil": "Sandy",
+    "fertilizer": {
+      "name": "NPK 20:20:0",
+      "quantity": 37,
+      "method": "Broadcast",
+      "precautions": "Avoid overuse"
+    }
+  },
+  {
+    "crop": "Onion",
+    "soil": "Loamy",
+    "fertilizer": {
+      "name": "NPK 20:20:0",
+      "quantity": 35,
+      "method": "Broadcast",
+      "precautions": "Water after application"
+    }
+  },
+  {
+    "crop": "Onion",
+    "soil": "Clay",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 33,
+      "method": "Broadcast",
+      "precautions": "Split doses recommended"
+    }
+  },
+  {
+    "crop": "Onion",
+    "soil": "Sandy Loam",
+    "fertilizer": {
+      "name": "NPK 20:20:0",
+      "quantity": 45,
+      "method": "Drill",
+      "precautions": "Avoid during heavy rainfall"
+    }
+  },
+  {
+    "crop": "Onion",
+    "soil": "Silty",
+    "fertilizer": {
+      "name": "DAP",
+      "quantity": 51,
+      "method": "Top dressing",
+      "precautions": "Water after application"
+    }
+  },
+  {
+    "crop": "Onion",
+    "soil": "Sandy",
+    "fertilizer": {
+      "name": "MOP",
+      "quantity": 49,
+      "method": "Drill",
+      "precautions": "Avoid during heavy rainfall"
+    }
+  }
+]

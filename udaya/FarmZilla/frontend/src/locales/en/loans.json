@@ -1,0 +1,34 @@
+{
+  "title": "Government Loan & Support Schemes for Farmers",
+  "description": "Explore various government-backed loan programs and financial support schemes available for farmers across India.",
+  "schemes": [
+    {
+      "name": "Kisan Credit Card (KCC)",
+      "description": "Provides timely credit support to farmers for agricultural and allied activities, including post-harvest expenses.",
+      "link": "https://fasalrin.gov.in/"
+    },
+    {
+      "name": "PM-KISAN",
+      "description": "Income support of ₹6,000 per year to all small and marginal farmers in three equal installments.",
+      "link": "https://pmkisan.gov.in/(S(5duyazmo4dsberqieib1gk05))/homenew.aspx"
+    },
+    {
+      "name": "NABARD Refinance Scheme",
+      "description": "Refinancing of term loans to banks to help farmers access credit for irrigation, plantation, and other infrastructure.",
+      "link": "https://www.nabard.org/content1.aspx?id=548&catid=8&mid=488"
+    },
+    {
+      "name": "PMFBY - Pradhan Mantri Fasal Bima Yojana",
+      "description": "Crop insurance scheme providing coverage against crop loss due to natural calamities, pests, and diseases.",
+      "link": "https://pmfby.gov.in/"
+    },
+    {
+      "name": "Agriculture Infrastructure Fund (AIF)",
+      "description": "Provides medium-to-long term debt financing for investment in viable projects for post-harvest management infrastructure.",
+      "link": "https://agriinfra.dac.gov.in/Home"
+    }
+   
+  ],
+  "apply_now": "Apply Now",
+  "learn_more": "Learn More"
+}

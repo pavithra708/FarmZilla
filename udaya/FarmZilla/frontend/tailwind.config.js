@@ -1,0 +1,70 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+  theme: {
+    extend: {
+      colors: {
+        primary: {
+          50: '#f0f9e8',
+          100: '#d8efc5',
+          200: '#b9e39e',
+          300: '#94d671',
+          400: '#74c94e',
+          500: '#57b82e',
+          600: '#439622',
+          700: '#34731b',
+          800: '#285c15',
+          900: '#1e4511',
+        },
+        secondary: {
+          50: '#edf7ff',
+          100: '#d6ebff',
+          200: '#b3d9ff',
+          300: '#85bfff',
+          400: '#5499ff',
+          500: '#2e74ff',
+          600: '#1e56ff',
+          700: '#1a45e0',
+          800: '#1a39b8',
+          900: '#1c3494',
+        },
+        accent: {
+          50: '#fff2e5',
+          100: '#ffe0c2',
+          200: '#ffc999',
+          300: '#ffad66',
+          400: '#ff9133',
+          500: '#ff7300',
+          600: '#e66000',
+          700: '#cc4e00',
+          800: '#a33e00',
+          900: '#7a2e00',
+        },
+        earth: {
+          50: '#f9f5f2',
+          100: '#f0e9e4',
+          200: '#e1d4ca',
+          300: '#cbb7a8',
+          400: '#b39783',
+          500: '#a08069',
+          600: '#8d6e63',
+          700: '#725750',
+          800: '#5f4941',
+          900: '#4e3c36',
+        },
+      },
+      fontFamily: {
+        sans: ['Inter', 'sans-serif'],
+      },
+      spacing: {
+        '72': '18rem',
+        '84': '21rem',
+        '96': '24rem',
+      },
+      animation: {
+        'bounce-slow': 'bounce 3s infinite',
+      },
+    },
+  },
+  plugins: [],
+};

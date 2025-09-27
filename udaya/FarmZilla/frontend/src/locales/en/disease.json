@@ -1,0 +1,15 @@
+{
+  "title": "Plant Disease Identification",
+  "description": "Upload images of your plants to quickly identify diseases and get treatment recommendations using our AI-powered disease recognition system.",
+  "analyzeButton": "Analyze Image",
+  "analyzing": "Analyzing your plant image...",
+  "uploadAnother": "Upload Another Image",
+  "detectionTitle": "Disease Detection",
+  "detectionDescription": "Upload a clear image of your plant and our AI will analyze it to identify any diseases and provide treatment recommendations.",
+  "symptomsTitle": "Symptoms",
+  "treatmentTitle": "Treatment",
+  "preventionTitle": "Preventive Measures",
+  "uploadLabel": "Drag & drop an image here, or click to select",
+  "uploadHelp": "Supports JPG, PNG • Max size: 5MB",
+  "dropLabel": "Drop the image here"
+}

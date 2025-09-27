@@ -1,0 +1,29 @@
+{
+  "title": "Smart Agriculture Features",
+  "subtitle": "Empowering farmers through digital tools",
+  "aiChatbot": {
+    "title": "AI Chatbot",
+    "description": "Chat with our AI to get quick farming tips"
+  },
+  "diseaseIdentification": {
+    "title": "Disease Identification",
+    "description": "Upload images to identify plant diseases"
+  },
+  "fertilizerAdvisor": {
+    "title": "Fertilizer Advisor",
+    "description": "Get suggestions for crop-specific fertilizers"
+  },
+  "loanInformation": {
+    "title": "Loan Information",
+    "description": "Explore government loan schemes for farmers"
+  },
+  "marketPriceTracker": {
+    "title": "Market Price Tracker",
+    "description": "Track real-time crop prices in local markets"
+  },
+  "bestPractices": {
+    "title": "Best Practices",
+    "description": "Learn sustainable and modern farming methods"
+  },
+  "explore": "Explore"
+}

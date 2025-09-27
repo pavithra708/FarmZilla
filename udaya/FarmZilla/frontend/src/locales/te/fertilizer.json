@@ -1,0 +1,12 @@
+{
+  "title": "స్మార్ట్ రాసాయనిక సిఫారసులు",
+  "description": "మీ మట్టిని, పంట మరియు పోషకాలు ఆధారంగా అనుకూలిత రాసాయనిక సిఫారసులు పొందండి, పంట పంట ఉత్పత్తిని పెంచడానికి మరియు పర్యావరణ ప్రభావాలను తగ్గించడానికి.",
+  "fertilizerRecommender": "రాసాయనిక సిఫారసుల పరికరం",
+  "selectCrop": "పంట రకం ఎంచుకోండి",
+  "selectSoil": "మట్టిన రకం ఎంచుకోండి",
+  "nitrogenPlaceholder": "నైట్రోజన్ (N)",
+  "phosphorusPlaceholder": "ఫాస్ఫోరస్ (P)",
+  "potassiumPlaceholder": "పొటాషియం (K)",
+  "getRecommendation": "సిఫారసు పొందండి",
+  "recommendation": "సిఫారసు"
+}

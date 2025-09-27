@@ -1,0 +1,57 @@
+/* src/components/LanguageScroller.css */
+
+.language-scroller {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  background-color: #f9f9f9; /* Optional: subtle background */
+  padding: 10px 0;
+}
+
+.language-scroller-wrapper {
+  display: flex;
+  animation: scroll 30s linear infinite;
+}
+
+/* Uniform, oval buttons */
+.language-scroller button {
+  flex: 0 0 auto;
+  width: 130px;           /* Fixed width */
+  height: 40px;           /* Fixed height */
+  margin-right: 30px;     /* Space between buttons */
+  padding: 0 12px;
+  font-size: 14px;
+  font-weight: 500;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 999px;   /* Oval shape */
+  cursor: pointer;
+  text-align: center;
+  white-space: nowrap;    /* Prevent text wrap */
+  overflow: hidden;       /* Hide overflow text */
+  text-overflow: ellipsis;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s;
+}
+
+.language-scroller button:hover {
+  background-color: #f0f0f0;
+}
+
+.language-scroller button.active {
+  background-color: #035020;
+  color: #fff;
+}
+
+/* Infinite horizontal scroll */
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}

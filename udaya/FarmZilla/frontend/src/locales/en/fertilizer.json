@@ -1,0 +1,12 @@
+{
+  "title": "Smart Fertilizer Recommendations",
+  "description": "Get customized fertilizer recommendations based on your soil type, crop, and nutrient levels to optimize yield while minimizing environmental impact.",
+  "fertilizerRecommender": "Fertilizer Recommender",
+  "selectCrop": "Select Crop Type",
+  "selectSoil": "Select Soil Type",
+  "nitrogenPlaceholder": "Nitrogen (N)",
+  "phosphorusPlaceholder": "Phosphorus (P)",
+  "potassiumPlaceholder": "Potassium (K)",
+  "getRecommendation": "Get Recommendation",
+  "recommendation": "Recommendation"
+}
